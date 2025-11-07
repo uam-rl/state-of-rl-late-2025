@@ -1,40 +1,32 @@
+**Languages:** [English](#) | [Español](README.es.md)
+
+---
+
 # State of Reinforcement Learning - Late 2025 Overview
 
 Presentation slides for the UAM RL Team's overview of the state of reinforcement learning in late 2025.
 
-Available in Spanish and English.
+## View Slides
 
----
+### HTML Slides (Interactive)
 
-# Estado del Aprendizaje por Refuerzo - Panorama a Finales de 2025
-
-Diapositivas de presentación del equipo UAM RL sobre el estado del aprendizaje por refuerzo a finales de 2025.
-
-Disponible en español e inglés.
-
----
-
-## View Slides / Ver Diapositivas
-
-### HTML Slides (Interactive) / Diapositivas HTML (Interactivas)
-
-#### Spanish / Español
+#### Spanish
 - **16:9**: https://uam-rl.github.io/state-of-rl-late-2025/
 - **4:3**: https://uam-rl.github.io/state-of-rl-late-2025/4-3.html
 
-#### English / Inglés
+#### English
 - **16:9**: https://uam-rl.github.io/state-of-rl-late-2025/en.html
 - **4:3**: https://uam-rl.github.io/state-of-rl-late-2025/en-4-3.html
 
-### PDF Downloads / Descargas PDF
+### PDF Downloads
 
-#### Spanish / Español
-- **Diapositivas 16:9**: https://uam-rl.github.io/state-of-rl-late-2025/diapositivas.pdf
-- **Diapositivas 4:3**: https://uam-rl.github.io/state-of-rl-late-2025/diapositivas-4-3.pdf
+#### Spanish
+- **Slides 16:9**: https://uam-rl.github.io/state-of-rl-late-2025/diapositivas.pdf
+- **Slides 4:3**: https://uam-rl.github.io/state-of-rl-late-2025/diapositivas-4-3.pdf
 - **Handout 16:9**: https://uam-rl.github.io/state-of-rl-late-2025/handout.pdf
 - **Handout 4:3**: https://uam-rl.github.io/state-of-rl-late-2025/handout-4-3.pdf
 
-#### English / Inglés
+#### English
 - **Slides 16:9**: https://uam-rl.github.io/state-of-rl-late-2025/slides-en.pdf
 - **Slides 4:3**: https://uam-rl.github.io/state-of-rl-late-2025/slides-en-4-3.pdf
 - **Handout 16:9**: https://uam-rl.github.io/state-of-rl-late-2025/handout-en.pdf
